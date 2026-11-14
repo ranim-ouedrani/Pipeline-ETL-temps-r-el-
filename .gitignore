@@ -1,0 +1,9 @@
+.env
+dernier_timestamp.json
+derniere_execution.txt
+__pycache__/
+*.pyc
+venv/
+.venv/
+.idea/
+.vscode/
